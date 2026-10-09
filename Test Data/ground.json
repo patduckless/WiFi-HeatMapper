@@ -1,0 +1,5005 @@
+{
+ "version": 2,
+ "floorplan": "Floorplan_Ground_Floor.jpg",
+ "points": [
+  {
+   "x": 539.0,
+   "y": 463.0,
+   "time": 0.0,
+   "readings": [
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -34,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -40,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -40,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -40,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -40,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -41,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -48,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -48,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -49,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -54,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -62,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:10",
+     "Signal": -63,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -64,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -64,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-06",
+     "BSSID": "02:00:00:00:00:13",
+     "Signal": -64,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -64,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -68,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -75,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -76,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -77,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    }
+   ]
+  },
+  {
+   "x": 491.0,
+   "y": 477.0,
+   "time": 14.375,
+   "readings": [
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -31,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -34,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -34,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -34,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -36,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -36,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -36,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -38,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -38,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -56,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -57,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -57,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -61,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -61,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -61,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -61,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -63,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -70,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -77,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1b",
+     "Signal": -78,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:10",
+     "Signal": -78,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": ""
+    }
+   ]
+  },
+  {
+   "x": 436.0,
+   "y": 478.0,
+   "time": 23.027,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -21,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -28,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -29,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -42,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -44,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -45,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -63,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -63,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -71,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -71,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -72,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -72,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -73,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -75,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -76,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -77,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1b",
+     "Signal": -78,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:10",
+     "Signal": -78,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -82,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    }
+   ]
+  },
+  {
+   "x": 432.0,
+   "y": 514.0,
+   "time": 32.922,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -21,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -28,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -29,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -44,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -45,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -63,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -63,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -71,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -71,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -72,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -72,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -73,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -75,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -76,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -77,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:10",
+     "Signal": -78,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -82,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    }
+   ]
+  },
+  {
+   "x": 432.0,
+   "y": 428.0,
+   "time": 50.729,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -21,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -28,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -29,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -41,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -41,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -41,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -45,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -56,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -58,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -64,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -66,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -73,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -75,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:10",
+     "Signal": -78,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -80,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    }
+   ]
+  },
+  {
+   "x": 419.0,
+   "y": 361.0,
+   "time": 62.502,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -29,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -31,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -34,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -36,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -38,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -48,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -56,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -64,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -66,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -77,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -80,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    }
+   ]
+  },
+  {
+   "x": 413.0,
+   "y": 304.0,
+   "time": 75.724,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -29,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -31,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -31,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -34,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -38,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -50,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -50,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -56,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -56,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -70,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -70,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -80,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -82,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -82,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 415.0,
+   "y": 252.0,
+   "time": 88.979,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -41,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -44,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -45,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -49,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -55,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -56,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -57,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -57,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -58,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -69,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -71,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -78,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 412.0,
+   "y": 207.0,
+   "time": 104.399,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -42,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -42,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -43,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -50,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -59,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -62,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -62,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -68,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -68,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -69,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -70,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -71,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -73,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-10",
+     "BSSID": "02:00:00:00:00:1d",
+     "Signal": -75,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -78,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -78,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-10",
+     "BSSID": "02:00:00:00:00:1e",
+     "Signal": -80,
+     "Channel": 132,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 454.0,
+   "y": 198.0,
+   "time": 119.125,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -42,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -42,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -43,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -50,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -59,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -62,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -62,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -65,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -68,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -68,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -69,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -70,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -71,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-10",
+     "BSSID": "02:00:00:00:00:1d",
+     "Signal": -75,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -78,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -78,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-10",
+     "BSSID": "02:00:00:00:00:1e",
+     "Signal": -80,
+     "Channel": 132,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 442.0,
+   "y": 107.0,
+   "time": 135.284,
+   "readings": [
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -49,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -56,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -56,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -62,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -63,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -68,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -68,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -68,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -71,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -71,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-10",
+     "BSSID": "02:00:00:00:00:1d",
+     "Signal": -75,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -76,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-10",
+     "BSSID": "02:00:00:00:00:1e",
+     "Signal": -80,
+     "Channel": 132,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 471.0,
+   "y": 261.0,
+   "time": 154.438,
+   "readings": [
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -42,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -49,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -54,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -54,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -58,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -62,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -63,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-10",
+     "BSSID": "02:00:00:00:00:1d",
+     "Signal": -75,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -76,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 521.0,
+   "y": 260.0,
+   "time": 173.106,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -36,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -55,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -63,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -63,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -64,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -71,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -75,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -75,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    }
+   ]
+  },
+  {
+   "x": 532.0,
+   "y": 344.0,
+   "time": 186.639,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -36,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -55,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -61,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -63,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -63,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -71,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -75,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -75,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -78,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -80,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    }
+   ]
+  },
+  {
+   "x": 489.0,
+   "y": 340.0,
+   "time": 198.862,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -36,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -38,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -57,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -61,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -62,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -62,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -63,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -69,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -70,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -70,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -71,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -75,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -75,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -75,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    }
+   ]
+  },
+  {
+   "x": 616.0,
+   "y": 343.0,
+   "time": 221.116,
+   "readings": [
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -26,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -26,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -26,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -38,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -44,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -56,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -57,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -58,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -59,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -61,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -61,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -62,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -68,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -68,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -69,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -70,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -75,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -75,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -75,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    }
+   ]
+  },
+  {
+   "x": 621.0,
+   "y": 217.0,
+   "time": 234.001,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -26,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -26,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -38,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -44,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -54,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -56,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -58,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -58,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -62,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -62,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -62,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -63,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -66,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -66,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -68,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -68,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    }
+   ]
+  },
+  {
+   "x": 539.0,
+   "y": 520.0,
+   "time": 266.666,
+   "readings": [
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -47,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -59,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -59,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -62,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -62,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -62,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -62,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -63,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -66,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -66,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -66,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -66,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -68,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -68,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -75,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 539.0,
+   "y": 520.0,
+   "time": 277.259,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -33,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -33,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -41,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -42,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -42,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -45,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -66,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -70,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1b",
+     "Signal": -73,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -75,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-11",
+     "BSSID": "02:00:00:00:00:20",
+     "Signal": -77,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 541.0,
+   "y": 608.0,
+   "time": 286.531,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -33,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -33,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -41,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -42,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -42,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -45,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -61,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -66,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -68,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -70,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1b",
+     "Signal": -73,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -75,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-11",
+     "BSSID": "02:00:00:00:00:20",
+     "Signal": -77,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -82,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 494.0,
+   "y": 603.0,
+   "time": 304.095,
+   "readings": [
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -33,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -33,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -40,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -42,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -42,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -43,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -48,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -48,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -49,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -49,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -50,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -50,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -52,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -54,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -54,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -62,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -64,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -66,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-06",
+     "BSSID": "02:00:00:00:00:13",
+     "Signal": -68,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1b",
+     "Signal": -72,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-12",
+     "BSSID": "02:00:00:00:00:21",
+     "Signal": -73,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-13",
+     "BSSID": "02:00:00:00:00:22",
+     "Signal": -75,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -76,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-11",
+     "BSSID": "02:00:00:00:00:20",
+     "Signal": -77,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -78,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-12",
+     "BSSID": "02:00:00:00:00:23",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-13",
+     "BSSID": "02:00:00:00:00:24",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:25",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA3"
+    },
+    {
+     "SSID": "Network-06",
+     "BSSID": "02:00:00:00:00:26",
+     "Signal": -82,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -82,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 589.0,
+   "y": 478.0,
+   "time": 324.519,
+   "readings": [
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -22,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -48,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -50,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -52,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -54,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -59,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -59,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -59,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -64,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -66,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:27",
+     "Signal": -68,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-06",
+     "BSSID": "02:00:00:00:00:13",
+     "Signal": -68,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1b",
+     "Signal": -72,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-12",
+     "BSSID": "02:00:00:00:00:21",
+     "Signal": -73,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-13",
+     "BSSID": "02:00:00:00:00:22",
+     "Signal": -75,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -76,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:28",
+     "Signal": -78,
+     "Channel": 9,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -78,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-12",
+     "BSSID": "02:00:00:00:00:23",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-13",
+     "BSSID": "02:00:00:00:00:24",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:25",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA3"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:29",
+     "Signal": -80,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-06",
+     "BSSID": "02:00:00:00:00:26",
+     "Signal": -82,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:1c",
+     "Signal": -82,
+     "Channel": 40,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 595.0,
+   "y": 593.0,
+   "time": 340.061,
+   "readings": [
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -40,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -48,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -50,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -52,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -54,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -55,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -59,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -59,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -59,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -64,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -66,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -66,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:27",
+     "Signal": -68,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-06",
+     "BSSID": "02:00:00:00:00:13",
+     "Signal": -68,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-12",
+     "BSSID": "02:00:00:00:00:21",
+     "Signal": -73,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -73,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-13",
+     "BSSID": "02:00:00:00:00:22",
+     "Signal": -75,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -76,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:28",
+     "Signal": -78,
+     "Channel": 9,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -78,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-12",
+     "BSSID": "02:00:00:00:00:23",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-13",
+     "BSSID": "02:00:00:00:00:24",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:25",
+     "Signal": -80,
+     "Channel": 100,
+     "Band": "5 GHz",
+     "Security": "WPA3"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:29",
+     "Signal": -80,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:2a",
+     "Signal": -82,
+     "Channel": 9,
+     "Band": "2.4 GHz",
+     "Security": "WPA1 WPA2"
+    },
+    {
+     "SSID": "Network-06",
+     "BSSID": "02:00:00:00:00:26",
+     "Signal": -82,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  },
+  {
+   "x": 649.0,
+   "y": 586.0,
+   "time": 353.508,
+   "readings": [
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -21,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -24,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -26,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -31,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -31,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -45,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -45,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -52,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -52,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -52,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -54,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -72,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:2b",
+     "Signal": -72,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -73,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:27",
+     "Signal": -75,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -75,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:28",
+     "Signal": -78,
+     "Channel": 9,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -78,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:29",
+     "Signal": -80,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:2a",
+     "Signal": -82,
+     "Channel": 9,
+     "Band": "2.4 GHz",
+     "Security": "WPA1 WPA2"
+    }
+   ]
+  },
+  {
+   "x": 648.0,
+   "y": 497.0,
+   "time": 367.039,
+   "readings": [
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:08",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:07",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:09",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-01",
+     "BSSID": "02:00:00:00:00:01",
+     "Signal": -20,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0d",
+     "Signal": -20,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0b",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0c",
+     "Signal": -24,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:0e",
+     "Signal": -41,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:11",
+     "Signal": -41,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:02",
+     "Signal": -47,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-02",
+     "BSSID": "02:00:00:00:00:0a",
+     "Signal": -49,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:04",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:05",
+     "Signal": -52,
+     "Channel": 44,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:03",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:06",
+     "Signal": -52,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-03",
+     "BSSID": "02:00:00:00:00:19",
+     "Signal": -52,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-08",
+     "BSSID": "02:00:00:00:00:17",
+     "Signal": -52,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2 802.1X"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:18",
+     "Signal": -52,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:16",
+     "Signal": -52,
+     "Channel": 36,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:0f",
+     "Signal": -54,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:15",
+     "Signal": -72,
+     "Channel": 6,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "Network-04",
+     "BSSID": "02:00:00:00:00:2b",
+     "Signal": -72,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-05",
+     "BSSID": "02:00:00:00:00:12",
+     "Signal": -73,
+     "Channel": 3,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:27",
+     "Signal": -75,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:14",
+     "Signal": -76,
+     "Channel": 11,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:2c",
+     "Signal": -78,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA3"
+    },
+    {
+     "SSID": "Network-14",
+     "BSSID": "02:00:00:00:00:29",
+     "Signal": -80,
+     "Channel": 1,
+     "Band": "2.4 GHz",
+     "Security": "WPA2"
+    },
+    {
+     "SSID": "Network-12",
+     "BSSID": "02:00:00:00:00:21",
+     "Signal": -80,
+     "Channel": 7,
+     "Band": "2.4 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:2d",
+     "Signal": -80,
+     "Channel": 9,
+     "Band": "2.4 GHz",
+     "Security": ""
+    },
+    {
+     "SSID": "Network-07",
+     "BSSID": "02:00:00:00:00:1a",
+     "Signal": -80,
+     "Channel": 52,
+     "Band": "5 GHz",
+     "Security": "WPA2 WPA3"
+    },
+    {
+     "SSID": "",
+     "BSSID": "02:00:00:00:00:2a",
+     "Signal": -82,
+     "Channel": 9,
+     "Band": "2.4 GHz",
+     "Security": "WPA1 WPA2"
+    },
+    {
+     "SSID": "Network-09",
+     "BSSID": "02:00:00:00:00:1f",
+     "Signal": -82,
+     "Channel": 108,
+     "Band": "5 GHz",
+     "Security": "WPA2"
+    }
+   ]
+  }
+ ]
+}
